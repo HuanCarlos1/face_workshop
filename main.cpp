@@ -1,5 +1,6 @@
 #include <QtGui/QApplication>
 #include "gui_paramdeform.h"
+#include "gui_performancemonitor.h"
 
 int main(int argc, char *argv[])
 {
